@@ -1,5 +1,7 @@
 # AWS route53 domain setting
 
+step
+
 1. Register a domain with [GoDaddy][GoDaddy]
 2. Create Hosted Zone on AWS route53
 3. Select the Hosted Zone
