@@ -14,9 +14,10 @@
 * 連猴子都懂的Git入門指南, https://backlogtool.com/git-guide/tw/
 * Git 初學筆記 - 指令操作教學, https://blog.longwin.com.tw/2009/05/git-learn-initial-command-2009/
 * git flow, http://www.codeceo.com/article/how-to-use-git-flow.html
-
+* Git必懂指令, https://github.com/spitfire-sidra/git-tutorial/blob/master/source/commands.rst
 ## Github
 * 如何用 Github 快速建立你的個人網頁, http://www.openfoundry.org/tw/foss-programs/9307-github-pages
+* Git 筆記 - Github 多人合作(設定), http://tech-marsw.logdown.com/blog/2013/08/17/git-notes-github-n-person-cooperation-settings
 
 ## JavaScript
 * 阮一峰 ECMAScript 6 入门, http://es6.ruanyifeng.com/
