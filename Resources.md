@@ -35,6 +35,8 @@
 * mongoose, https://www.npmjs.com/package/mongoose
 * mongoose, http://mongoosejs.com/docs/
 * showdown, https://github.com/showdownjs/showdown
+* workflow, http://oranwind.org/node-js-workflow/
+* memcached, https://github.com/3rd-Eden/memcached
 
 ## mongoDB
   
@@ -42,6 +44,9 @@
 
 ## Nginx
 * Nginx, https://nginx.org/en/docs/
+
+## websocket
+* socket.io, http://socket.io/
 
 ## Vue
 * Vue SPA 範例教學, https://github.com/MeCKodo/vue-tutorial
@@ -55,7 +60,7 @@
 * oxxo, SVG 完整教學31天, http://www.oxxostudio.tw/articles/201410/svg-tutorial.html
 
 ## CSS
-* fFlex 布局教程：语法篇, http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
+* Flex 布局教程：语法篇, http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 * Flex 布局教程：实例篇 ,http://www.ruanyifeng.com/blog/2015/07/flex-examples.html
 ## UI
 * Semantic UI, http://semantic-ui.com/
@@ -63,14 +68,21 @@
 * Material-UI, http://www.material-ui.com/
 
 
-## 相關知識
+## others
 * SSL憑證種類, https://www.guardtech.com.tw/purchase-certificates/ssl-shopping-guides/types-of-ssl-certs-1.html
+* YC 2016 analysis, http://www.themacro.com/articles/2016/05/the-startup-zeitgeist/
+* Linkit Smart 76688, https://www.taiwaniot.com.tw/%E6%8A%80%E8%A1%93%E6%96%87%E4%BB%B6/linkit-%E7%B3%BB%E5%88%97%E9%96%8B%E7%99%BC%E6%9D%BF/linkit-smart-7688-duo%E5%AE%89%E8%A3%9D%E8%88%87%E9%9F%8C%E9%AB%94%E5%8D%87%E7%B4%9A%E6%8C%87%E5%BC%95/
+* ZeroNet, https://xiaolan.me/zeronet-0.html
+* Rust, https://www.rust-lang.org/en-US/
+
 
 # programming
+
 * SOLID, https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 * SOA design, https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E6%9C%8D%E5%8A%A1%E7%9A%84%E6%9E%B6%E6%9E%84
 * decoupled architecture
 * UniversalJS, http://v123582.github.io/blog/2016/04/03/%E4%B8%8D%E5%8F%AF%E4%B8%8D%E7%9F%A5%E7%9A%84%E5%89%8D%E7%AB%AF%E8%B6%A8%E5%8B%A2-Isomorphic-%E8%88%87-UniversalJS/
+* Microservices, https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%9C%8D%E5%8B%99
 
 # Web Design
 
